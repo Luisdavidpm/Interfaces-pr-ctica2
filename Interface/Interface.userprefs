@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\rotacion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Eventos.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\NewBehaviourScript.cs" Line="6" Column="39" />
-      <File FileName="Assets\Standard Assets\rotacion.cs" Line="8" Column="30" />
-      <File FileName="Assets\Standard Assets\Destruir.cs" Line="10" Column="3" />
+      <File FileName="Assets\Standard Assets\NewBehaviourScript.cs" Line="10" Column="13" />
+      <File FileName="Assets\Standard Assets\rotacion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Destruir.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Eventos.cs" Line="12" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
